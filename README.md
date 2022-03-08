@@ -1,1 +1,1 @@
-# KeySpinner3D-4.0
+# KeySpinner2D-4.0
